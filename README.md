@@ -7,6 +7,6 @@
 - RXJava
 - Dagger
 - Single activity with Navigation Component
-- MVVM architecture
+- MVVM architecture with Data Binding
 
 Загруженные данные хранятся в кэше в течение одной минуты. Логика кэширования описана здесь: https://github.com/yulmaso/SkbKonturTest/blob/master/app/src/main/java/com/yulmaso/skbkonturtest/di/AppModule.kt
