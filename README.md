@@ -4,6 +4,7 @@
 Использованные технологии и паттерны:
 - Kotlin
 - Retrofit
+- RXJava
 - Dagger
 - Single activity with Navigation Component
 - MVVM architecture
