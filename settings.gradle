@@ -1,0 +1,2 @@
+rootProject.name='SkbkonturTest'
+include ':app'
